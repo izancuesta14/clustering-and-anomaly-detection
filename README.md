@@ -105,8 +105,8 @@ ROC-AUC stays at 0.94 regardless of `contamination`, so the ranking quality of t
 ## Getting Started
 
 ```bash
-git clone https://github.com/izancuesta14/stroke-risk-prediction-ml.git
-cd stroke-risk-prediction-ml
+git clone https://github.com/izancuesta14/clustering-and-anomaly-detection.git
+cd clustering-and-anomaly-detection
 pip install numpy pandas scikit-learn matplotlib seaborn umap-learn jupyter
 ```
 
